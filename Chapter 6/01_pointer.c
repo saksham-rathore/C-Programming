@@ -13,3 +13,7 @@ int main(){
 
     return 0;
 }
+
+// What is a Pointer in C?
+
+// A pointer is a special variable that stores the address of another variable.
